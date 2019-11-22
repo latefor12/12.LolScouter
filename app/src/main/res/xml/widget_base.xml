@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:initialLayout="@layout/widget_base"
+                    android:minHeight="72dp"
+                    android:minWidth="72dp"
+                    android:previewImage="@drawable/challenger"
+                    android:resizeMode="horizontal"
+                    android:updatePeriodMillis="1800000"
+/>
